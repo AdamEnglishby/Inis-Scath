@@ -4,3 +4,5 @@
 Theme: `Wild / Wild Galway`
 
 This repo holds the Unity project and all related assets.
+
+[Play it here!](https://gingefire.itch.io/inis-scth)
